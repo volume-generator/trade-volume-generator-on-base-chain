@@ -1,0 +1,46 @@
+{
+  "name": "trade-volume-generator-on-base-chain",
+  "version": "2.0.5",
+  "description": "A High speed volume generator bot on base chain .",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solspec-dev/trade-volume-generator-on-base-chain.git"
+  },
+  "keywords": [
+    "crypto trade volume generator for base chain",
+    "increase the volume of my base token instantly",
+    "base chain volume generator",
+    "trade volume generator for base chain token",
+    "trade",
+    "volume",
+    "bot",
+    "base",
+    "chain",
+    "trade",
+    "volume",
+    "generator",
+    "dexscreener volume generator",
+    "volume",
+    "generator",
+    "for",
+    "base",
+    "base",
+    "chain",
+    "volume",
+    "gerator",
+    "bot"
+  ],
+  "author": "solspec-dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solspec-dev/trade-volume-generator-on-base-chain/issues"
+  },
+  "homepage": "https://github.com/solspec-dev/trade-volume-generator-on-base-chain#readme",
+  "dependencies": {
+    "ethers": "^6.13.1"
+  }
+}
