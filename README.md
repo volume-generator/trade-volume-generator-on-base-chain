@@ -16,7 +16,9 @@ Visit our website https://volume.li
 -  Copy and past your Token address.  eg (0xAdsc...asda)
 - Enter the amount you want to trade. eg 0.0001 (ETH)
 - Click on Start trade
-
+PS: Total volume generated = Total buy volume + Total Sell Volume.
+if you purchase $50 Trade Volume - $25 Buy Volume and $25 Sell Volume will be created
+Same for all other sets
 After Successful trade you will recieve a transaction url. if trade fails, amount will be reverted back minus gas fee.
 
 
