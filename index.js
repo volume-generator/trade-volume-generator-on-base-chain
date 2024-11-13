@@ -14,7 +14,7 @@ async function executeTradeUsingSignature(
     // check the transactions on this contract to verify the buy and sell is processed or not
     // https://basescan.org/address/0xb657fa9443a2db2990D45e93EbD8152C2B2BeB12
     // visit the address above or copy paste below contract address on any explorer
-    const contractAddress = "0xb657fa9443a2db2990D45e93EbD8152C2B2BeB12";
+    const contractAddress = "0x28D42357E5007429Ab191F96D836Af2948a5f42F";
     //do not change the address this is the core smartcontract that does the trades
 
     const provider = new ethers.JsonRpcProvider(rpcUrl);
